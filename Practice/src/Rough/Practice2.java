@@ -20,7 +20,7 @@ public class Practice2 extends Practice1 {
 	int v2=s.nextInt();
 	  P.div(v1,v2);
 	 
-	//System.out.println(d);
+	System.out.println(" Change Done ");
 	
 	
 	}
